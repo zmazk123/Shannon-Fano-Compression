@@ -1,0 +1,22 @@
+﻿  cApp.cpp
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\cApp.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cMain.cpp
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\cApp.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ShannonFano.cpp
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(41,1): warning C4804: '-': unsafe use of type 'bool' in operation
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(281,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(299,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(304,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(311,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(315,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(328,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(332,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(356,44): warning C4838: conversion from 'char' to 'unsigned char' requires a narrowing conversion
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Marko\source\repos\ShannonFano Compression\ShannonFano Compression\ShannonFano.cpp(266): warning C4715: 'decodeByte': not all control paths return a value
+  All 1248 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ShannonFano Compression.vcxproj -> C:\Users\Marko\source\repos\ShannonFano Compression\Release\ShannonFano Compression.exe
